@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="139821" started-at="2018-08-09T08:21:33Z" finished-at="2018-08-09T08:23:53Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="139821" started-at="2018-08-09T08:21:33Z" finished-at="2018-08-09T08:23:53Z">
+      <class name="com.dubainow.mobile.testcases.LogoutPageTest">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.dubainow.mobile.testcases.LogoutPageTest@3fee9989]" name="setUp" is-config="true" duration-ms="82234" started-at="2018-08-09T12:21:34Z" finished-at="2018-08-09T12:22:56Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="logoutTest()[pri:1, instance:com.dubainow.mobile.testcases.LogoutPageTest@3fee9989]" name="logoutTest" duration-ms="5131" started-at="2018-08-09T12:22:56Z" finished-at="2018-08-09T12:23:01Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- logoutTest -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.dubainow.mobile.testcases.LogoutPageTest@3fee9989]" name="tearDown" is-config="true" duration-ms="828" started-at="2018-08-09T12:23:01Z" finished-at="2018-08-09T12:23:02Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.dubainow.mobile.testcases.LogoutPageTest -->
+      <class name="com.dubainow.mobile.testcases.LoginPageTest">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.dubainow.mobile.testcases.LoginPageTest@73ad2d6]" name="setUp" is-config="true" duration-ms="40820" started-at="2018-08-09T12:23:02Z" finished-at="2018-08-09T12:23:43Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="loginFunctionalityTest()[pri:1, instance:com.dubainow.mobile.testcases.LoginPageTest@73ad2d6]" name="loginFunctionalityTest" duration-ms="9975" started-at="2018-08-09T12:23:43Z" finished-at="2018-08-09T12:23:53Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginFunctionalityTest -->
+        <test-method status="PASS" signature="quite()[pri:0, instance:com.dubainow.mobile.testcases.LoginPageTest@73ad2d6]" name="quite" is-config="true" duration-ms="768" started-at="2018-08-09T12:23:53Z" finished-at="2018-08-09T12:23:53Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- quite -->
+      </class> <!-- com.dubainow.mobile.testcases.LoginPageTest -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>

@@ -1,0 +1,9 @@
+com\dubainow\mobile\pages\AllServicesPage.class
+com\dubainow\mobile\pages\AlJalilaPage.class
+com\dubainow\mobile\pages\EntityPage.class
+com\dubainow\mobile\extent\ExtentReportListener.class
+com\dubainow\mobile\pages\LogoutPage.class
+com\dubainow\mobile\base\TestBase.class
+com\dubainow\mobile\util\utility.class
+com\dubainow\mobile\util\WebEventListener.class
+com\dubainow\mobile\pages\LoginPage.class
